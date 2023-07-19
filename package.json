@@ -1,6 +1,6 @@
 {
   "name": "cards-validation-2btech",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cards Validation 2BTech",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,5 @@
   ],
   "author": "2BTech LLC",
   "license": "MIT",
-  "homepage": "https://2btechinc.com/",
-
+  "homepage": "https://2btechinc.com/"
 }
